@@ -11,6 +11,15 @@ can see which libraries are required in each sample by taking a look at pom.xml 
 
 **Tutorial 4**: Some test to figure out how to work with Scala Self type Annotation
 
+Every tutorial has same template which contains 5 source folders:
+	src/main/java: for java classes
+	src/main/scala: for scala file
+	src/test/java: for Java Unit Test
+	src/test/java: for Scala Unit Test
+	src/main/resouces: For resource files
+	
+
+
 ### To run sample, using maven build command:
 	
 	mvn clean install
